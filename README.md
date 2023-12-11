@@ -1,6 +1,6 @@
-# AutoTestFramework
 
-AutoTestFramework is a comprehensive and adaptable Java-based automated testing solution designed to assess the functionality and performance of applications or their individual components.
+
+This is a comprehensive and adaptable Java-based automated testing solution designed to assess the functionality and performance of applications or their individual components.
 
 For detailed information, please explore these sections:
 
